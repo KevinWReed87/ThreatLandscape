@@ -10,3 +10,9 @@ Mary owns this phone. She's friends with Bob who lives in the house. Mary is stu
 
 <img src="https://i.imgur.com/Qzz7Cuy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+-   Click Smartphone 3, and then click Command Prompt. Enter the command ping 192.168.100.101. After one or two "Request timed out" messages, the remaining pings should be successful.
+
+Mary tells Bob that the network is easily attacked. For instance, someone could take over the webcam and spy on the house. Bob asks Mary to check it out and suggest a fix.
+
+<img src="https://i.imgur.com/M1MqDCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/8v6Wppq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
