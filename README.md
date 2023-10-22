@@ -20,8 +20,10 @@ Mary tells Bob that the network is easily attacked. For instance, someone could 
 -  Click Home.
 -  Click Home Office PC > Desktop tab > Command Prompt, and then enter the command ipconfig.
 
-The default gateway is the IP address for the Home Wireless Router.
-
 <img src="https://i.imgur.com/DhJ2lQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/X4cHPgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="https://i.imgur.com/d2vvE8B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+The default gateway is the IP address for the Home Wireless Router.
+<img src="https://i.imgur.com/SfQ5MRL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
