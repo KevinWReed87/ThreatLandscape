@@ -23,7 +23,14 @@ Mary tells Bob that the network is easily attacked. For instance, someone could 
 <img src="https://i.imgur.com/DhJ2lQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/X4cHPgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
-The default gateway is the IP address for the Home Wireless Router.
+- The default gateway is the IP address for the Home Wireless Router.
+
 <img src="https://i.imgur.com/SfQ5MRL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Use the Web Browser to connect to the Home Wireless Router. Close the Command Prompt and click Web Browser.
+- Enter the default gateway IP address.
+
+<img src="https://i.imgur.com/vYVMnMe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Bob doesn't have the router documents or its login info. Mary searches the router model online and finds out the default login is 'admin' for both username and password. She logs into the home wireless router.
 
